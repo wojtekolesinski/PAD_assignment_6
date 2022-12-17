@@ -6,7 +6,7 @@ Przed rozpoczęciem zainstaluj dash poleceniem:
 
 `pip install dash`
 
-###Zadanie 1 (1 pk)
+### Zadanie 1 (1 pk)
 Utwórz stronę dash, która:
 - Wczyta dane z pliku winequality.csv do tabeli pandas i je wyświetli jako tabelę (10 wierszy).
 - Będzie pozwalała na wybór modelu regresji lub klasyfikacji (dropdown lista albo radio button albo jeszcze coś innego – wybrać sobie).

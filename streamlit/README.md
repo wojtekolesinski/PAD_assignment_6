@@ -6,7 +6,7 @@ Przed rozpoczęciem zainstaluj streamlit poleceniem:
 
 `pip install streamlit`
 
-###Zadanie 1 (5 pk)
+### Zadanie 1 (5 pk)
 Utwórz stronę streamlit, która:
 - Będzie miała dwie zakładki (dwie wersje wyświetlania): Ankieta i Staty (1 pkt)
 - Na stronie Ankieta: (1 pkt)
